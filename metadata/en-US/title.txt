@@ -1,1 +1,1 @@
-Webview Kiosk
+LetsOrderIt Terminal
