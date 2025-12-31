@@ -1,3 +1,0 @@
-## Hot Fix
-
-- fix: device policy manager is uninitialised in some context

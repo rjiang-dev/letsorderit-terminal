@@ -1,3 +1,0 @@
-## Changes
-
-- fix: autofill services (e.g. bitwarden/protonpass) not working with address bar visible

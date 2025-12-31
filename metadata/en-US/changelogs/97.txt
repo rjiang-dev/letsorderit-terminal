@@ -1,4 +1,0 @@
-## Changes
-
-- fix: resolved allow refresh false causing address bar to be delayed on launch
-- fix: custom block scheme causing block page loop

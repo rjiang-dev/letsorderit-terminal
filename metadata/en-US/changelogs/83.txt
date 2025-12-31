@@ -1,3 +1,0 @@
-## Changes
-
-- fix: enable device credentials for devices below api 30

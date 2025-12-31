@@ -1,1 +1,0 @@
-fix: fill max width for multiline textarea
