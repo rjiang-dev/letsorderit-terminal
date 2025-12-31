@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Webview Kiosk"
+rootProject.name = "LetsOrderIt Terminal"
 include(":app")
