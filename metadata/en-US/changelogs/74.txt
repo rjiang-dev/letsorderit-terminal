@@ -1,3 +1,0 @@
-## Hot Fix
-
-- resolve crash on Android 9.0 tablets when keyboard opens in landscape orientation

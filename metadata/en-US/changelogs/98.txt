@@ -1,3 +1,0 @@
-## Changes
-
-- fix: missing `device.brightness` in import/export

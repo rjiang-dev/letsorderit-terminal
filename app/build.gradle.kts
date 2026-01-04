@@ -13,11 +13,11 @@ android {
     namespace = "uk.nktnet.webviewkiosk"
 
     defaultConfig {
-        applicationId = "uk.nktnet.webviewkiosk"
+        applicationId = "com.letsorderit.terminal"
         minSdk = 21
         targetSdk = 36
-        versionCode = 111
-        versionName = "0.25.6"
+        versionCode = 1
+        versionName = "0.0.0"
         buildConfigField("int", "MIN_SDK_VERSION", "$minSdk")
     }
 

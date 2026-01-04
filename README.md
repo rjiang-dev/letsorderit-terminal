@@ -10,7 +10,7 @@
 > - Keep Android Open: https://keepandroidopen.org
 > - Video context: https://www.youtube.com/watch?v=wRvqdLsnsKY
 
-# Webview Kiosk
+# LetsOrderIt Terminal
 
 > Docs: https://webviewkiosk.nktnet.uk
 
@@ -24,8 +24,12 @@
 
 </div>
 
-Webview Kiosk is a free and open-source Android application for secure,
+LetsOrderIt Terminal is a free and open-source Android application for secure,
 kiosk-style web browsing.
+
+This repository was forked from the original Webview Kiosk Project:
+
+- https://github.com/nktnet1/webview-kiosk
 
 It can function as digital signage, a kid-friendly restricted browser, an
 immersive web reader, an interactive signup form, a home assistant dashboard,

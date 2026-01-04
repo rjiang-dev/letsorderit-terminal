@@ -1,1 +1,0 @@
-fix: add android.intent.category.APP_BROWSER to manifest

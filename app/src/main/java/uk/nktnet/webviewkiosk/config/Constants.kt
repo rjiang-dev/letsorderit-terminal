@@ -1,7 +1,7 @@
 package uk.nktnet.webviewkiosk.config
 
 object Constants {
-    const val WEBSITE_URL = "https://webviewkiosk.nktnet.uk"
+    const val WEBSITE_URL = "https://letsorderit.com"
     const val DOCUMENTATION_URL = "https://webviewkiosk.nktnet.uk/docs"
     const val SOURCE_CODE_URL = "https://github.com/nktnet1/webview-kiosk"
     const val DEFAULT_SEARCH_PROVIDER_URL = "https://duckduckgo.com?q="
@@ -13,7 +13,7 @@ object Constants {
 
     const val WEB_CONTENT_FILES_DIR = "web-content-files"
 
-    const val APP_SCHEME = "webviewkiosk"
+    const val APP_SCHEME = "letsorderit-terminal"
     const val GEOLOCATION_RESOURCE = "${APP_SCHEME}.custom-permission.geolocation"
 
     const val INTENT_NAVIGATE_TO_WEBVIEW_SCREEN = "intent_navigate_to_webview_screen"
