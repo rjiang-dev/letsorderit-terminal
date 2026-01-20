@@ -1,4 +1,4 @@
-## Pre-release 0.0.1
+## Pre-release 0.0.2
 
 Second test release of LetsOrderIt Terminal.
 
